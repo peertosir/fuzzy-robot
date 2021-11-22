@@ -1,0 +1,30 @@
+.user-form {
+  width: 45%;
+  background: white;
+  padding: 1rem;
+  margin: 2rem;
+}
+
+.user-form label {
+  font-size: inherit;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+.user-form input {
+  border: 1px solid black;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.user-form__controls {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.align-right {
+  margin-left: auto;
+  margin-right: 0px;
+  display: block;
+}
